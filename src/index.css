@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button > svg {
+  margin-right: 0.25rem;
+}
+
+.button-page > div > div,
+h1 {
+  margin: 0.5rem;
+}
